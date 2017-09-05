@@ -1,5 +1,3 @@
-require 'bigdecimal'
-
 class BankAccount
   DEFAULT_BALANCE = 0
 
